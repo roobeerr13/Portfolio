@@ -1,10 +1,8 @@
-# Meu Portfólio Pessoal
-É um site que tem como objetivo apresentar um breve resumo sobre mim, minhas habilidades com desenvolvimento e meus projetos realizados. 
-Além disso contém um formulário de contato para mandar mensagem para meu e-mail de contato.
+Es un sitio web que pretende ofrecerle un breve resumen sobre mí, mis capacidades de desarrollo y mis proyectos realizados. 
+También contiene un formulario de contacto donde se puede enviar un mensaje a mi dirección de correo electrónico de contacto.
 
-Construído em Bootstrap totalmente responsivo e com implementação de interações e animações em JavaScript. Além de conter uma construção em PHP para receber um 
-formulário e realizar um envio de e-mail para contato, utilizando a biblioteca PHPMailer.
+Está construido en Bootstrap y es totalmente responsive, con interacciones y animaciones en JavaScript. También contiene una construcción PHP para recibir un 
+formulario y enviar un correo electrónico al contacto, utilizando la biblioteca PHPMailer.
 
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
-- @Wesleyhrl : [https://github.com/Wesleyhrl]
-- Site : [https://whrl.vercel.app]
